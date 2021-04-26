@@ -1,5 +1,5 @@
 /.idea
-
+/venv
 /.venv
 /env
 *.pyc
@@ -12,3 +12,5 @@ web/lib/import-map.json
 *.session
 /*.json
 *.bak
+sticker/testttt.py
+python.exe.stackdump

@@ -55,10 +55,10 @@ class App extends Component {
 			},
 		}
 		if (!supportedThemes.includes(this.state.theme)) {
-			this.state.theme = "light"
+			this.state.theme = "dark"
 		}
 		if (!supportedThemes.includes(this.defaultTheme)) {
-			this.defaultTheme = "light"
+			this.defaultTheme = "dark"
 		}
 		this.stickersByID = new Map(JSON.parse(localStorage.mauFrequentlyUsedStickerCache || "[]"))
 		this.state.frequentlyUsed.stickers = this._getStickersByID(this.state.frequentlyUsed.stickerIDs)
