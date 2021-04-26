@@ -1,6 +1,7 @@
 {
   "packs": [
-    "sm22_49f3af6e1b5b43ec8c440de3fb1c0907_by_Stickery19Bot.json"
+    "sm22_49f3af6e1b5b43ec8c440de3fb1c0907_by_Stickery19Bot.json",
+    "Kittenwaffen.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
