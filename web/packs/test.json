@@ -1,0 +1,22 @@
+{
+    "title": "test",
+    "id": "",
+    "stickers":[{
+        "body": "",
+        "url": "mxc://matrix.org/gTxUSuaDrgbDEYkYkLSuJmyd",
+        "info": {
+            "w": 50,
+            "h": 50,
+            "size": 6312,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://matrix.org/gTxUSuaDrgbDEYkYkLSuJmyd",
+            "thumbnail_info": {
+                "w": 50,
+                "h": 50,
+                "size": 6312,
+                "mimetype": "image/png"
+            }
+        }
+    }]
+    
+}

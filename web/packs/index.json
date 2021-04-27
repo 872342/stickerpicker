@@ -1,7 +1,8 @@
 {
   "packs": [
     "qmotes.json",
-    "Kittenwaffen.json"
+    "Kittenwaffen.json",
+    "test.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
