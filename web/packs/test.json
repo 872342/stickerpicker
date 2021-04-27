@@ -2,6 +2,7 @@
     "title": "test",
     "id": "test",
     "stickers":[{
+        "id": "0",
         "body": "🐰",
         "url": "mxc://matrix.org/gTxUSuaDrgbDEYkYkLSuJmyd",
         "info": {
