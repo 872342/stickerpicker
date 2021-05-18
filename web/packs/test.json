@@ -18,6 +18,23 @@
                 "mimetype": "image/png"
             }
         }
-    }]
+    },
+    {
+        "id": "1",
+        "body": "",
+        "url": "mxc://matrix.org/UjGOkzjNgIpvmRrtHkEPmxqp",
+        "info": {
+            "w": 64,
+            "h": 64,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://matrix.org/UjGOkzjNgIpvmRrtHkEPmxqp",
+            "thumbnail_info": {
+                "w": 64,
+                "h": 64,
+                "mimetype": "image/png"
+            }
+        }
+    }
+]
     
 }
